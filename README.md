@@ -4,3 +4,4 @@ MythicKeys is a client-side mod for Minecraft Fabric, which allows your client t
 
 
 w.i.p
+[Minecraft Fabric](https://fabricmc.net/use/installer/)
