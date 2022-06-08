@@ -5,6 +5,8 @@
 MythicKeys is a client-side mod for Minecraft Fabric, which allows your client to receive and send keypresses between servers using the MythicKeys plugin.
 This mod must be used on a server utilizing the [MythicKeysPlugin](https://www.spigotmc.org/resources/mythickeysplugin-add-custom-keybindings.98893/) to add proper functionality.
 
+Latest supported Minecraft version: **1.19**
+
 ## Installation:
 1. Install [Fabric](https://fabricmc.net/use/installer/)
 2. Install [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
