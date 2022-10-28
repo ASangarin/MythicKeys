@@ -1,5 +1,5 @@
 
-# **MINECRAFT FORGE SUPPORT IS ON THE WAY**
+# **THIS PAGE IS OUTDATED! FOR LATEST VERSIONS, GO [HERE](https://github.com/ASangarin/AriKeys)**
 ![MythicKeys Title](https://i.imgur.com/Ca8rnyY.png)
 
 MythicKeys is a client-side mod for Minecraft Fabric, which allows your client to receive and send keypresses between servers using the MythicKeys plugin.
@@ -22,6 +22,3 @@ When joining such a server, it will send the configured keybinds to your client 
 
 ## Support
 If you require support or have questions, reach out to me on the [MythicMobs Discord](https://discord.gg/K3tqXfT) or simply open an issue on this GitHub repo.
-
-## Source
-https://git.lumine.io/ASangarin/mythickeys-clientmod/
